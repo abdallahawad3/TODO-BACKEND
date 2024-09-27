@@ -2,7 +2,6 @@
 
 ### Backend README for [TODO-BACKEND](https://github.com/abdallahawad3/TODO-BACKEND)
 
-```markdown
 # Full Stack Application Backend README
 
 ## Overview
@@ -45,6 +44,5 @@ This repository contains the backend for a full-stack application built using **
 3. Start the frontend application:
 
    ```bash
-   npm run dev
-   ```
+   npm run develop
    ```
